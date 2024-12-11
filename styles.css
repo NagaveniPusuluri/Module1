@@ -68,8 +68,12 @@
 }
 
 @media screen and (max-width: 480px) {
+    .main {
+        width: 150px;
+    }
     .calculator {
-        max-width: 100px;
+        max-width: 200px;
+        padding: 2px;
     }
 
     .text {
@@ -77,6 +81,6 @@
     }
 
     .button {
-        padding: 5px;
+        padding: 10px;
     }
 }
