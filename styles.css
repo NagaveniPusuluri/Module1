@@ -73,7 +73,7 @@
     }
     .calculator {
         max-width: 200px;
-        padding: 2px;
+        padding-left: 100px;
     }
 
     .text {
